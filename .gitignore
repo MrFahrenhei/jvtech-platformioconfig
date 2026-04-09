@@ -1,0 +1,28 @@
+.pio
+# PlatformIO
+.pioenvs/
+.piolibdeps/
+.platformio/
+
+# Build / cache
+build/
+*.o
+*.elf
+*.bin
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# CLion specific
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+
+# OS
+.DS_Store
+Thumbs.db
